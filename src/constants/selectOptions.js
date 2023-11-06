@@ -1,0 +1,26 @@
+export const carManufacturers = [
+  "Buick",
+  "Volvo",
+  "HUMMER",
+  "Subaru",
+  "Mitsubishi",
+  "Nissan",
+  "Lincoln",
+  "GMC",
+  "Hyundai",
+  "MINI",
+  "Bentley",
+  "Mercedes-Benz",
+  "Aston Martin",
+  "Pontiac",
+  "Lamborghini",
+  "Audi",
+  "BMW",
+  "Chevrolet",
+  "Mercedes-Benz",
+  "Chrysler",
+  "Kia",
+  "Land",
+];
+
+export const carPrices = [25, 30, 35, 40, 45, 50, 100, 150, 200, 250, 300, 500];
